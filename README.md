@@ -21,7 +21,7 @@ A classic Tic Tac Toe game built with JavaScript.
 Open index.html in your browser.
 
 ### Live Demo
-Check out the live demo here: [Insert Live Demo Link]
+Check out the live demo here: https://misgana-design.github.io/PRODIGY_WD_03/
 
 ## Acknowledgments
 
