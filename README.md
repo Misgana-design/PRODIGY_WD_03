@@ -16,7 +16,7 @@ A classic Tic Tac Toe game built with JavaScript.
 **JavaScript**
 
 ### How to Use
-*Clone the repository:* git clone [repository URL]
+*Clone the repository:* git clone https://github.com/Misgana-design/PRODIGY_WD_03
 
 Open index.html in your browser.
 
